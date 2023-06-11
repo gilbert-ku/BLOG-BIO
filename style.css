@@ -54,8 +54,25 @@ nav a {
     background-color: blue;
     align-items: center;
     margin: -1% 10% 0 10%;
-    
+    display: flex;
 }
+.profile {
+    background-color: aquamarine;
+    width: 40vw;
+    height:600px;
+    background-image: url(./image/bio.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+      
+}
+
+.introduction{
+    background-color: aquamarine;
+    width: 40vw;
+    height:600px;
+}
+
 
 
 
