@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 body {
@@ -49,18 +49,18 @@ nav a {
     font-weight: 700;
 }
 .parent {
-    height: 600px;
-    width: 80vw;
+    height: 700px;
+    width: 90vw;
     background-color: blue;
     align-items: center;
-    margin: -1% 10% 0 10%;
+    margin: -1% 5% 0 5%;
     display: flex;
 }
-.profile {
+.profile img{
     background-color: aquamarine;
-    width: 40vw;
-    height:600px;
-    background-image: url(./image/bio.jpeg);
+    width: 30vw;
+    height:700px;
+    /* background-image: url(./image/bio.jpeg); */
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -69,8 +69,24 @@ nav a {
 
 .introduction{
     background-color: aquamarine;
-    width: 40vw;
-    height:600px;
+    width: 60vw;
+    height:700px;
+    text-align: center;
+    /* overflow: scroll; */
+
+}
+.introduction h2 {
+    font-size: 5vw;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: dashed;
+}
+.introduction p {
+    /* overflow-y: scroll; */
+    text-align: center;
+    font-size: 1.2vw;
+    padding: 2px 15px 0 15px;
+    margin: 1px 5px 1px 5px;
+    font-family: 'Caveat' serif;
 }
 
 
