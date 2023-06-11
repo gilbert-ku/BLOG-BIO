@@ -48,7 +48,14 @@ nav a {
     font-family: 'Anton', sans-serif;
     font-weight: 700;
 }
-
+.parent {
+    height: 600px;
+    width: 80vw;
+    background-color: blue;
+    align-items: center;
+    margin: -1% 10% 0 10%;
+    
+}
 
 
 
