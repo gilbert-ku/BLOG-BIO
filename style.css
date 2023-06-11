@@ -7,7 +7,8 @@
 
 body {
     width: 100vw;
-    height: 100vh;
+    /* height: 100vh; */
+    background-color: antiquewhite;
 }
 
 header {
@@ -27,22 +28,22 @@ header {
 ul li h1 {
     color: white;
     font-weight: bold;
-    font-size: 3rem;
+    font-size: 3vw;
 }
 
 nav {
     height: 80px;
     width: 100vw;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     text-align: center;
-    padding-top: 2rem;   
+    padding-top: 1rem;   
 }
 
 nav a {
     color: black;
     padding-left: 10%;
     padding-right: 20px;
-    font-size: 200%;
+    font-size: 2.5vw;
     text-size-adjust: auto;
     text-decoration: none;
     font-family: 'Anton', sans-serif;
@@ -51,13 +52,13 @@ nav a {
 .parent {
     height: 700px;
     width: 90vw;
-    background-color: blue;
+    /* background-color: blue; */
     align-items: center;
-    margin: -1% 5% 0 5%;
+    margin: 0 5% 0 5%;
     display: flex;
 }
 .profile img{
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     width: 30vw;
     height:700px;
     /* background-image: url(./image/bio.jpeg); */
@@ -68,7 +69,7 @@ nav a {
 }
 
 .introduction{
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     width: 60vw;
     height:700px;
     text-align: center;
@@ -87,8 +88,34 @@ nav a {
     padding: 2px 15px 0 15px;
     margin: 1px 5px 1px 5px;
     font-family: 'Caveat' serif;
+    min-zoom: 5;
 }
 
+.introduction > .gillie{
+    font-weight: 700;
+    font-size: 1vw;
+}
 
+footer{
+    height: 100px;
+    background: rgb(163, 229, 229);
+    padding-top: 10px;
+    margin-top: 15px;
+
+}
+
+#details{
+    display: flex;
+    justify-content: space-between;
+}
+#details footer {
+    display: flex;
+    
+}
+.footer {
+    width: 25%;
+    text-align: center;
+    
+  }
 
 
