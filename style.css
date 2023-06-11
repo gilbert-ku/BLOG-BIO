@@ -30,6 +30,25 @@ ul li h1 {
     font-size: 3rem;
 }
 
+nav {
+    height: 80px;
+    width: 100vw;
+    background-color: aquamarine;
+    text-align: center;
+    padding-top: 2rem;   
+}
+
+nav a {
+    color: black;
+    padding-left: 10%;
+    padding-right: 20px;
+    font-size: 200%;
+    text-size-adjust: auto;
+    text-decoration: none;
+    font-family: 'Anton', sans-serif;
+    font-weight: 700;
+}
+
 
 
 
