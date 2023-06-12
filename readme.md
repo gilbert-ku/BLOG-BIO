@@ -1,6 +1,7 @@
 
 
 #### This is my personal website as per 2023.
+![Screenshot from 2023-06-12 17-55-11 (2)](https://github.com/gilbert-ku/BLOG-BIO/assets/125896467/72570244-8c83-459c-bf83-2dc54f570bac)
 
 #### By Gilbert Kutoto
 
