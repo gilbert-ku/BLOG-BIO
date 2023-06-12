@@ -1,11 +1,11 @@
 
 
-#### This is my biography as per 2023.
+#### This is my personal website as per 2023.
 
 #### By Gilbert Kutoto
 
 #### Simple discription
-This biography describe my life early life, education, work experience, my personal life, role model, hobbiesm fun fact about myself, being a christian I have added my favourite bible verse and lastly my contacts.
+This website describe my life early life, education, work experience, my personal life, role model, hobbiesm fun fact about myself, being a christian I have added my favourite bible verse and lastly my contacts I also post blogs about finance and technoloyg.
 
 ## Setup/installation instructions
 First I had to install VScode in PC
