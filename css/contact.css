@@ -36,3 +36,16 @@ body {
     font-weight: 400;
 
 }
+.contact label{
+    font-size: 2vw;
+    font-weight: 400;
+}
+.contact .input {
+    width: 30vw;
+    height: 30px;
+}
+
+.contact .input-massage {
+    width: 28vw;
+    height: 150px;
+}
