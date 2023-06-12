@@ -13,3 +13,9 @@ button.addEventListener("click", function ()  {
     console.log(massageInput);
 });
 
+function thankYouNote() {
+    alert("Thank you for your massage");
+}
+button.addEventListener("click", thankYouNote);
+
+
