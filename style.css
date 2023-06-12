@@ -2,11 +2,11 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    /* overflow: hidden; */
+    overflow-x: hidden; 
 }
 
 body {
-    width: 100vw;
+    /* width: 100vw; */
     /* height: 100vh; */
     background-color: antiquewhite;
 }
@@ -29,6 +29,7 @@ ul li h1 {
     color: white;
     font-weight: bold;
     font-size: 3vw;
+    padding: 0 20px 0 40px;
 }
 
 nav {
@@ -60,7 +61,7 @@ nav a {
 .profile img{
     /* background-color: aquamarine; */
     width: 30vw;
-    height:700px;
+    height:550px;
     /* background-image: url(./image/bio.jpeg); */
     background-repeat: no-repeat;
     background-size: cover;
@@ -84,11 +85,11 @@ nav a {
 .introduction p {
     /* overflow-y: scroll; */
     text-align: center;
-    font-size: 1.2vw;
+    font-size: 1.1vw;
     padding: 2px 15px 0 15px;
     margin: 1px 5px 1px 5px;
     font-family: 'Caveat' serif;
-    min-zoom: 5;
+    min-zoom: 4;
 }
 
 .introduction > .gillie{
@@ -99,8 +100,8 @@ nav a {
 footer{
     height: 100px;
     background: rgb(163, 229, 229);
-    padding-top: 10px;
-    margin-top: 15px;
+    padding-top: 20px;
+    margin-top: 20px;
 
 }
 
