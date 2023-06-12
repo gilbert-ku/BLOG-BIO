@@ -65,3 +65,19 @@ span{
     color: whitesmoke;
     border-radius: 10px;
 }
+.contact .checkbox {
+    width: 20px;
+    height: 20px;
+}
+span{
+    font-size: 3vw;
+}
+
+#button {
+    width: 20vw;
+    height: 5vh;
+    font-size: 2vw;
+    background-color: rgb(39, 46, 121);
+    color: whitesmoke;
+    border-radius: 10px;
+}
