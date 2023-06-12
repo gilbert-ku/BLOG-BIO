@@ -10,3 +10,11 @@ body {
     background-repeat: no-repeat;
 }
 
+.contact {
+    height: 500px;
+    width: 40vw;
+    background-color: bisque;
+    padding: 20px;
+    text-align: center;
+    
+}
